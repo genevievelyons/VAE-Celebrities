@@ -1,0 +1,2 @@
+model_checkpoint_path: "CVAE_model"
+all_model_checkpoint_paths: "CVAE_model"
